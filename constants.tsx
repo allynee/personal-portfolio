@@ -198,8 +198,8 @@ export const FUN_ITEMS: FunItem[] = [
       text: 'This page is still in progress...',
       // text: 'I love the creative process of cooking, from finding a new recipe to plating the final dish. My specialty is homemade pasta, but I also enjoy baking sourdough bread and trying out complex curry recipes. It\'s a delicious and rewarding hobby.',
       images: [
-        {url: '/images/lobster-2.jpg', caption: 'Emperer Hirorito (After), Maine, USA'},
-        {url: '/images/lobster-1.jpg', caption: 'Emperer Hirorito (Before), Maine, USA'},
+        {url: '/images/lobster-2.jpg', caption: 'Emperer Hirohito (After), Maine, USA'},
+        {url: '/images/lobster-1.jpg', caption: 'Emperer Hirohito (Before), Maine, USA'},
       ],
     },
   },
